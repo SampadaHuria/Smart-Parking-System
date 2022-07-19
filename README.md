@@ -1,3 +1,3 @@
 # Smart-Parking-System
-### It is an IoT based project using C++ 
+### It is an IoT based project 
 ### Executed through Arduino IDE
